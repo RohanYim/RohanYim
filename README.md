@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-theta-nine-81.vercel.app/api?username=RohanYim&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats-theta-nine-81.vercel.app/api/top-langs/?username=RohanYim&langs_count=8)](https://github.com/RohanYim/github-readme-stats)
+[![Top Langs](https://github-readme-stats-theta-nine-81.vercel.app/api/top-langs/?username=RohanYim&langs_count=8&size_weight=0.5&count_weight=0.5)](https://github.com/RohanYim/github-readme-stats)
